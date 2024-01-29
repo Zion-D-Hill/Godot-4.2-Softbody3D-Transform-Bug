@@ -1,0 +1,14 @@
+MeshInstance3D
+BoneAttachment3D
+Node
+Node3D
+CharacterBody3D
+SoftBody3D
+ProgressBar
+RootMotionView
+AudioStreamPlayer
+TextureRect
+CollisionShape3D
+StaticBody3D
+Timer
+CSGBox3D

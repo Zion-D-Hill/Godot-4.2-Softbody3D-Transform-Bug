@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706508831
+camera_3d.tscn::PackedScene::186692482791707143::1706508318::0::1::::<><>::
+icon.svg::CompressedTexture2D::5698299705896581985::1706507568::1706508738::1::::<><>::
+loading_screen.gd::GDScript::-1::1706508634::0::1::::<>Control<>::
+loading_screen.tscn::PackedScene::8450015657477670474::1706508668::0::1::::<><>::res://loading_screen.gd
+player.gd::GDScript::-1::1706508137::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::7123180599443765113::1706508614::0::1::::<><>::res://player.gd
+world.tscn::PackedScene::7877664597612663082::1706508614::0::1::::<><>::uid://cwo2enjfr73x::::res://camera_3d.tscn<>uid://c8qr0j14pd0k0::::res://player.tscn
